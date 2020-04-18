@@ -1,0 +1,107 @@
+﻿* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#form1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 620px;
+    height: 410px;
+    background-color: #232a34;
+}
+
+#topDiv {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 280px;
+    height: 70px;
+    background-color: #ddd;
+}
+
+#Button1 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 90px;
+    height: 30px;
+    background-color: #232a34;
+    color: #ddd;
+    border: none;
+    cursor: pointer;
+}
+
+    #Button1:hover {
+        opacity: 0.8;
+    }
+
+#counterDiv {
+    position: absolute;
+    top: 20px;
+    left: 170px;
+    width: 76px;
+    height: 16px;
+    padding: 7px;
+    background-color: #232a34;
+    color: #ddd;
+}
+
+#centerDiv {
+    position: absolute;
+    top: 110px;
+    left: 20px;
+    width: 280px;
+    height: 280px;
+    background-color: #ddd;
+}
+
+#Table1 {
+    width: 280px;
+    height: 280px;
+    border-collapse: collapse;
+    border: none;
+}
+
+    #Table1 td, tr {
+        padding: 0px;
+        border-collapse: collapse;
+        border: none;
+    }
+
+.butGame {
+    width: 70px;
+    height: 70px;
+    font-size: x-large;
+    color: #232a34;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+    .butGame:hover {
+        opacity: 0.8;
+    }
+
+#can {
+    position: absolute;
+    top: 30px;
+    left: 330px;
+    background-color: #ddd;
+}
+
+#Button2 {
+    position: absolute;
+    top: 370px;
+    left: 330px;
+    width: 280px;
+    height: 30px;
+    background-color: #ddd;
+    color: #232a34;
+    border: none;
+    cursor: pointer;
+}
+
+    #Button2:hover {
+        opacity: 0.8;
+    }
